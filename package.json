@@ -1,0 +1,23 @@
+{
+  "name": "a05-emenay",
+  "version": "1.0.0",
+  "description": "this is a05",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a05-emenay.git"
+  },
+  "author": "emily menay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a05-emenay/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a05-emenay#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
